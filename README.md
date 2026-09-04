@@ -1,7 +1,7 @@
 # SMB Enumeration Lab: Information Gathering & Share Analysis
 
 ## Project Overview
-This project serves as a practical lab exercise focused on enumerating and analyzing Server Message Block (SMB) services on a vulnerable target (Metasploitable 2). The primary objective is to demonstrate how attackers gather critical system information, map local users, identify exposed network shares, and exploit misconfigurations such as anonymous (Null Session) logins.
+This project is a practical lab exercise focused on enumerating and analysing Server Message Block (SMB) services on a vulnerable target (Metasploitable 2). The primary objective is to demonstrate how attackers gather critical system information, map local users, identify exposed network shares, and exploit misconfigurations such as anonymous (Null Session) logins.
 
 Through this exercise, practitioners learn to transition from automated enumeration to manual interaction, testing both share-level and filesystem-level permissions.
 
